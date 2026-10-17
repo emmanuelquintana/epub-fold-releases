@@ -1,0 +1,7 @@
+{
+  "versionCode": 12,
+  "versionName": "1.0.12",
+  "notes": "17 funciones nuevas: lectura, Fold, biblioteca, notas y hábito\n\nLectura: traducción en paralelo, vocabulario con repaso, voces y audio M4A,\npasar página sin tocar (proximidad/inclinación) y modo continuo.\nFold: modo Flex, resaltado de la línea al plegar y arrastrar citas a otras apps.\nBiblioteca: estanterías propias, qué leer después y carpeta de entrada.\nNotas: Obsidian/Readwise/Notion, tarjetas para compartir y búsqueda global.\nHábito: recordatorio diario, resumen anual y clubes de lectura (Firestore).\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+  "sha": "477732649e695fb4226c1cc01f209e93fb38d557",
+  "apk": "https://raw.githubusercontent.com/emmanuelquintana/epub-fold-releases/main/EpubFold.apk"
+}
