@@ -1,0 +1,7 @@
+{
+  "versionCode": 18,
+  "versionName": "1.0.18",
+  "notes": "La línea resaltada al plegar o desplegar usa también el color de acento\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+  "sha": "62e21ac28e3d9e4ad7d8bd2fb1548f0e9d5ed23c",
+  "apk": "https://raw.githubusercontent.com/emmanuelquintana/epub-fold-releases/main/EpubFold.apk"
+}
