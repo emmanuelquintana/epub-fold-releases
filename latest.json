@@ -1,0 +1,7 @@
+{
+  "versionCode": 23,
+  "versionName": "1.0.23",
+  "notes": "Corrige compilación del tema de estantería\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01SQG9GJ1w4EiN8xEQsUU2nv",
+  "sha": "59a606ab5943a0d20fdaea25ccf87328da57200a",
+  "apk": "https://raw.githubusercontent.com/emmanuelquintana/epub-fold-releases/main/EpubFold.apk"
+}
